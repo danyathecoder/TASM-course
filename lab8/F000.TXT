@@ -1,0 +1,3 @@
+                                                                                
+C:\>lab8.com hello                                                              
+Ctrl+C - find word, Ctrl+Z - return interrupts                                  
